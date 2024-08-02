@@ -1,0 +1,3 @@
+# MicrosoftAzureProjects
+The Bookstore Application is a dynamic web-based platform designed to streamline the online book purchasing experience. Hosted on Microsoft Azure, this app allows users to explore an extensive catalog of books, manage their shopping carts, and complete purchases with ease.
+The Metro Booking Application is a comprehensive web-based platform designed to simplify metro ticket reservations and schedule management. Deployed on Microsoft Azure, this application provides users with a seamless experience for booking metro tickets, viewing schedules, and managing their travel plans.
